@@ -33,4 +33,4 @@ This repository is generated from the MKT Skills source and updated on each rele
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+MIT. See [LICENSE](https://github.com/vinceservidad/mkt-skills/blob/main/LICENSE).
