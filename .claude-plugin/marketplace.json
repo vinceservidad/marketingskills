@@ -1,0 +1,219 @@
+{
+  "name": "mkt-skills",
+  "owner": {
+    "name": "Vince Servidad",
+    "url": "https://mktskills.com"
+  },
+  "metadata": {
+    "description": "129 marketing skills for AI agents \u2014 diagnosis router plus 20 sections from market research to operations.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "mkt-skills",
+      "description": "All 129 MKT Skills (the diagnosis router plus 128 skills across 20 marketing sections): market, customer, positioning, offer, copywriting, paid ads, SEO, funnels, CRO, retention, measurement, growth, and operations.",
+      "source": "./"
+    },
+    {
+      "name": "mkt-core",
+      "description": "The diagnosis router: maps a symptom or \"where do I start\" to question, section and skill.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/00-router"
+      ]
+    },
+    {
+      "name": "mkt-q1-audience",
+      "description": "Q1. Who are we selling to, in what market? Sections: 01 Market \u00b7 02 Customer \u00b7 03 Awareness.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/01-competitor-profiling",
+        "./skills/01-demand-check",
+        "./skills/01-market-assessment",
+        "./skills/01-sophistication-stage",
+        "./skills/02-buyer-psychology",
+        "./skills/02-customer-research",
+        "./skills/02-icp-persona",
+        "./skills/02-jobs-to-be-done",
+        "./skills/02-segmentation",
+        "./skills/02-voc-mining",
+        "./skills/03-awareness-map",
+        "./skills/03-journey-map",
+        "./skills/03-traffic-temperature"
+      ]
+    },
+    {
+      "name": "mkt-q2-offer",
+      "description": "Q2. What are we selling, and why would they choose it? Sections: 04 Product \u00b7 05 Brand \u00b7 06 Positioning \u00b7 07 Offer.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/04-plg-audit",
+        "./skills/04-pmf-check",
+        "./skills/05-brand-foundation",
+        "./skills/05-brand-voice",
+        "./skills/05-distinctive-assets",
+        "./skills/05-naming",
+        "./skills/05-reputation",
+        "./skills/06-category-design",
+        "./skills/06-competitor-pages",
+        "./skills/06-positioning-statement",
+        "./skills/06-unique-mechanism",
+        "./skills/07-bonuses-urgency",
+        "./skills/07-guarantee-risk-reversal",
+        "./skills/07-offer-design",
+        "./skills/07-pricing",
+        "./skills/07-value-ladder"
+      ]
+    },
+    {
+      "name": "mkt-q3-message",
+      "description": "Q3. What do we say? Sections: 08 Message \u00b7 09 Creative Strategy \u00b7 10 Copywriting.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/08-message-doc",
+        "./skills/08-objection-map",
+        "./skills/08-proof-stack",
+        "./skills/08-story-epiphany-bridge",
+        "./skills/09-ad-creative",
+        "./skills/09-angle-matrix",
+        "./skills/09-creative-brief",
+        "./skills/09-hooks",
+        "./skills/09-image-video",
+        "./skills/09-ugc-brief",
+        "./skills/10-ad-copy",
+        "./skills/10-copy-editing",
+        "./skills/10-email-copy",
+        "./skills/10-headlines",
+        "./skills/10-page-copy",
+        "./skills/10-sales-page",
+        "./skills/10-swipe-file",
+        "./skills/10-vsl-script"
+      ]
+    },
+    {
+      "name": "mkt-q4-reach",
+      "description": "Q4. How do we reach them? Sections: 11 Distribution \u00b7 12 Funnel.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/11-affiliate-jv",
+        "./skills/11-ai-seo-geo",
+        "./skills/11-aso",
+        "./skills/11-channel-selection",
+        "./skills/11-co-marketing",
+        "./skills/11-cold-email",
+        "./skills/11-content-strategy",
+        "./skills/11-directories",
+        "./skills/11-email-channel",
+        "./skills/11-events",
+        "./skills/11-free-tools",
+        "./skills/11-influencer",
+        "./skills/11-paid-search",
+        "./skills/11-paid-social",
+        "./skills/11-podcast-video",
+        "./skills/11-pr",
+        "./skills/11-programmatic-seo",
+        "./skills/11-schema",
+        "./skills/11-seo",
+        "./skills/11-site-architecture",
+        "./skills/11-sms",
+        "./skills/11-social",
+        "./skills/12-email-sequences",
+        "./skills/12-funnel-design",
+        "./skills/12-landing-page",
+        "./skills/12-launch",
+        "./skills/12-lead-magnet",
+        "./skills/12-retargeting",
+        "./skills/12-upsell-path",
+        "./skills/12-webinar-challenge"
+      ]
+    },
+    {
+      "name": "mkt-q5-decide",
+      "description": "Q5. How do they decide? Sections: 13 Conversion \u00b7 14 Sales.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/13-cart-recovery",
+        "./skills/13-checkout",
+        "./skills/13-cro-audit",
+        "./skills/13-paywalls",
+        "./skills/13-popups",
+        "./skills/13-pricing-page",
+        "./skills/13-signup",
+        "./skills/13-trust-signals",
+        "./skills/14-discovery-spin",
+        "./skills/14-dm-selling",
+        "./skills/14-lead-scoring",
+        "./skills/14-objection-handling",
+        "./skills/14-prospecting",
+        "./skills/14-sales-enablement",
+        "./skills/14-sales-script"
+      ]
+    },
+    {
+      "name": "mkt-q6-after",
+      "description": "Q6. What happens after? Sections: 15 Retention \u00b7 16 Referral and Community.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/15-churn-prevention",
+        "./skills/15-expansion",
+        "./skills/15-lifecycle",
+        "./skills/15-loyalty",
+        "./skills/15-nps-feedback",
+        "./skills/15-onboarding",
+        "./skills/16-community",
+        "./skills/16-referral-program",
+        "./skills/16-reviews",
+        "./skills/16-testimonials-case-studies",
+        "./skills/16-ugc-program",
+        "./skills/16-viral-loop"
+      ]
+    },
+    {
+      "name": "mkt-q7-improve",
+      "description": "Q7. How do we know, and how do we improve? Sections: 17 Measurement \u00b7 18 Experimentation \u00b7 19 Growth.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/17-analytics",
+        "./skills/17-attribution",
+        "./skills/17-dashboard",
+        "./skills/17-incrementality",
+        "./skills/17-tracking-plan",
+        "./skills/17-unit-economics",
+        "./skills/18-ab-testing",
+        "./skills/18-creative-testing",
+        "./skills/18-experiment-log",
+        "./skills/18-hypothesis",
+        "./skills/18-price-testing",
+        "./skills/19-constraint-finder",
+        "./skills/19-growth-loops",
+        "./skills/19-growth-model",
+        "./skills/19-horizontal-expansion",
+        "./skills/19-scale-paid"
+      ]
+    },
+    {
+      "name": "mkt-q8-run",
+      "description": "Q8. How do we run it? Sections: 20 Operations.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/20-budget",
+        "./skills/20-campaign-review",
+        "./skills/20-compliance",
+        "./skills/20-content-calendar",
+        "./skills/20-marketing-council",
+        "./skills/20-marketing-plan",
+        "./skills/20-martech",
+        "./skills/20-sops"
+      ]
+    }
+  ]
+}

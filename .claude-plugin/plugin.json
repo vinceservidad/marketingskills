@@ -1,0 +1,12 @@
+{
+  "name": "mkt-skills",
+  "description": "129 marketing skills for AI agents: diagnosis router plus 20 sections covering customer research, offers, copywriting, paid ads, SEO, CRO, retention, measurement, and growth.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Vince Servidad"
+  },
+  "homepage": "https://mktskills.com",
+  "repository": "https://github.com/vinceservidad/mkt-skills",
+  "license": "MIT",
+  "skills": "./skills"
+}
