@@ -54,7 +54,7 @@ Then run `/plugins` inside Codex and select **mkt-skills**.
 Add the read-only remote MCP connector:
 
 ```text
-https://mktskills.com/mcp/open
+https://mktskills.com/mcp/marketing-skills
 ```
 
 Setup help: <https://mktskills.com/support>
