@@ -27,7 +27,7 @@ Required (drafted or confirmed, with content):
 
 For the named methods this skill owns, see [references/methods.md](references/methods.md).
 
-Use [references/expansion-guide.md](references/expansion-guide.md) for core stability checks, the Ansoff Matrix, core–adjacent–transformational, crossing the chasm and horizontal scale paths.
+Use [references/expansion-guide.md](references/expansion-guide.md) for core stability checks, the Ansoff Matrix, core–adjacent–transformational, crossing the chasm and horizontal scale paths, and [references/international-localization-playbook.md](references/international-localization-playbook.md) when any option involves international or multi-region expansion (landed-cost/VAT/duties math, DDP shipping, localization, local payments, country-separated feeds/ad accounts and hreflang).
 
 1. **Is the core stable?** Retention, delivery and constraint from `inputs/` and `19-constraint-finder`; if the core is leaking, expansion waits and the reason is stated.
 2. **List options.** From the owner's ideas and the evidence: new segments (from Segments set aside), new offers (empty ladder steps, product gaps), new channels, new markets.

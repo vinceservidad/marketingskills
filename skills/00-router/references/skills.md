@@ -137,12 +137,15 @@ Job: put the message in front of the right people, at a cost that works, in chan
 | --- | --- | --- | --- | --- | --- |
 | `11-channel-selection` | built | Choose one or two channels to win with the Bullseye method, from all paid, owned and earned options. | `work/11-distribution/` | `customer.md#ICP and personas`; `offer.md#Core offer` or `offer.md#Price and model` | `awareness.md#Traffic temperature` |
 | `11-seo` | built | Plan SEO: keyword research by intent, on-page, technical health, links and topical authority. | `work/11-distribution/` | `customer.md#ICP and personas` | `awareness.md#Journey` |
+| `11-local-seo` | built | Plan Local SEO and Google Business Profile: Map Pack visibility, NAP citations and local pages. | `work/11-distribution/` | `customer.md#ICP and personas` | `offer.md#Core offer`; `brand.md#Reputation` |
 | `11-ai-seo-geo` | built | Get the brand cited in AI search answers (generative engine optimization). | `work/11-distribution/` | `positioning.md#Positioning statement` or `customer.md#ICP and personas` | nothing |
 | `11-programmatic-seo` | built | Build templated pages at scale from a data set, without thin or duplicate content. | `work/11-distribution/` | `customer.md#ICP and personas` | nothing |
 | `11-site-architecture` | built | Design site structure and internal linking so pages are found and rank. | `work/11-distribution/` | nothing | `awareness.md#Journey` |
 | `11-schema` | built | Add structured data that matches visible content and earns rich results. | `work/11-distribution/` | nothing | nothing |
 | `11-paid-search` | built | Plan paid search to capture intent: keywords, match types, ad groups and bidding. | `work/11-distribution/` | `offer.md#Core offer`; `awareness.md#Awareness map` | nothing |
+| `11-shopping-feeds` | built | Plan Google Shopping, Merchant Center and supplemental product feeds: titles, hygiene and SKU segmentation. | `work/11-distribution/` | `offer.md#Core offer`; `awareness.md#Awareness map` | `offer.md#Price and model` |
 | `11-paid-social` | built | Plan paid social: creative-led campaigns, broad targeting and algorithm learning. | `work/11-distribution/` | `offer.md#Core offer`; `awareness.md#Awareness map` | `message.md#Promise` |
+| `11-marketplace-retail-media` | built | Plan marketplace and retail media (Amazon Ads, TikTok Shop, Etsy, Walmart): retail readiness, Buy Box and TACoS. | `work/11-distribution/` | `offer.md#Core offer`; `awareness.md#Awareness map` | `offer.md#Price and model` |
 | `11-content-strategy` | built | Plan content pillars, clusters, repurposing and distribution against the journey. | `work/11-distribution/` | `customer.md#ICP and personas`; `awareness.md#Journey` or `awareness.md#Awareness map` | nothing |
 | `11-social` | built | Plan organic social: platform choice, formats, cadence and community replies. | `work/11-distribution/` | `customer.md#ICP and personas` | `brand.md#Voice` |
 | `11-influencer` | built | Plan influencer and creator programs: seeding, sponsorship, affiliate and whitelisting. | `work/11-distribution/` | `customer.md#ICP and personas`; `offer.md#Core offer` | nothing |
@@ -157,6 +160,7 @@ Job: put the message in front of the right people, at a cost that works, in chan
 | `11-free-tools` | built | Build free tools that attract buyers and lead to the core offer (engineering as marketing). | `work/11-distribution/` | `customer.md#Jobs to be done` | nothing |
 | `11-podcast-video` | built | Use podcasts, guesting and video (YouTube) as a distribution channel. | `work/11-distribution/` | `customer.md#ICP and personas` | `message.md#Story` |
 | `11-sms` | built | Plan SMS as an owned channel: consent, cadence and message types. | `work/11-distribution/` | `awareness.md#Journey` or `awareness.md#Awareness map` | `offer.md#Core offer` |
+| `11-whatsapp` | built | Plan WhatsApp Business Platform and conversational messaging: explicit opt-in, Utility vs Marketing templates and flows. | `work/11-distribution/` | `awareness.md#Journey` or `awareness.md#Awareness map` | `offer.md#Core offer` |
 
 ### 12 Funnel
 

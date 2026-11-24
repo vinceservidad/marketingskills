@@ -1,6 +1,6 @@
 ---
 name: 11-paid-social
-description: Plan and audit creative-led paid social. Use for Meta, Facebook, Instagram, TikTok or LinkedIn ads, campaign structure, audiences, budget, clicks without calls, or putting money behind an ad.
+description: Plan and audit creative-led paid social. Use for Meta, Instagram, TikTok, LinkedIn, Pinterest or Reddit ads, campaign structure, audiences, budget, or clicks without calls.
 metadata:
   section: "11 Distribution"
   covers: "Paid social"
@@ -26,7 +26,7 @@ Required (drafted or confirmed, with content):
 
 ## Process
 
-Use [references/paid-social-guide.md](references/paid-social-guide.md) for the decision rules, the results read and the platform-claims rule; [references/meta-performance-five-and-delivery.md](references/meta-performance-five-and-delivery.md) for the Performance 5 review, 11-field alignment row and compatible results arithmetic; and [references/meta-learning-leads-and-specs.md](references/meta-learning-leads-and-specs.md) for learning-phase isolation, Conversion Leads setup, budgeting/underdelivery triage, regulated checks, placement specs and Ads Manager pulls.
+Use [references/paid-social-guide.md](references/paid-social-guide.md) for the decision rules, the results read and the platform-claims rule; [references/meta-performance-five-and-delivery.md](references/meta-performance-five-and-delivery.md) for the Performance 5 review, 11-field alignment row and compatible results arithmetic; [references/meta-learning-leads-and-specs.md](references/meta-learning-leads-and-specs.md) for learning-phase isolation, Conversion Leads setup, budgeting/underdelivery triage, regulated checks, placement specs and Ads Manager pulls; and [references/pinterest-and-reddit-ads.md](references/pinterest-and-reddit-ads.md) for Pinterest Ads (visual search, Pin vs. Outbound clicks, catalog pins, longer conversion lag) and Reddit Ads (subreddit targeting, community-native copy, comments policy and CAPI checks).
 
 1. **The outcome that decides.** Name the primary business outcome (a qualified call, a paying subscriber who stays past the second box) and the event the platform will optimise for. The optimisation event is the nearest tracked event that stands for that outcome. Clicks, CTR, likes, comments and platform-reported leads are delivery signals, never the outcome.
 2. **Read what already ran,** when `inputs/` holds results. Total spend, platform-reported results and business outcomes per concept with [scripts/sum_by.py](scripts/sum_by.py) (`python3 <this skill's folder>/scripts/sum_by.py <file> concept --ratio spend_usd/<outcome column>`), never by eye. Rank by cost per business outcome, show each sample size, and label each figure *observed* (from the export), *calculated* or *inferred*. A pattern (frequency rising while CTR falls) is not a cause; say what would confirm it.

@@ -293,8 +293,12 @@ Attention has to be bought, earned or borrowed, then routed through a path that 
 | Traffic temperature (Brunson; owned in Awareness) | Cold, warm, hot traffic → different ads and pages |
 | Content marketing (Pulizzi, Handley) | Pillar content, clusters, repurposing, distribution |
 | SEO | Keyword research, intent, on-page, technical, links, topical authority |
+| Local SEO | Google Business Profile, Map Pack (relevance, distance, prominence), NAP citations, local pages |
 | Paid search (Google, Bing) | Intent capture: keywords, match types, quality score, bidding |
-| Paid social (Meta, TikTok, YouTube, LinkedIn) | Interruption: creative-led, broad targeting, algorithm learning |
+| Shopping & product feeds | Google Merchant Center, feed-as-targeting, supplemental titles, custom-label SKU segmentation |
+| Paid social (Meta, TikTok, YouTube, LinkedIn, Pinterest, Reddit) | Interruption & visual/community feeds: creative-led, broad targeting, algorithm learning |
+| Marketplace & retail media | Amazon Ads, TikTok Shop, Walmart/Etsy: retail readiness before spend, Buy Box, ACoS vs TACoS |
+| WhatsApp & conversational messaging | Explicit WhatsApp opt-in, Utility vs Marketing templates, 24-hour service window, quality rating |
 | Influencer and creator marketing | Seeding, sponsorship, affiliate, whitelisting |
 | Affiliate and JV launches | Pay on performance; partners promote in exchange for commission |
 | Account-Based Marketing (ABM) | Target named accounts with coordinated outreach (B2B) |

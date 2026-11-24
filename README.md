@@ -1,6 +1,6 @@
 # MKT Skills
 
-129 marketing skills for AI agents: a diagnosis router (`00-router`) plus 128 skills across 20 sections covering market research, customer research, positioning, offers, copywriting, creative strategy, paid ads, SEO, funnels, CRO, sales, retention, referrals, measurement, experimentation, growth, and operations.
+133 marketing skills for AI agents: a diagnosis router (`00-router`) plus 132 skills across 20 sections covering market research, customer research, positioning, offers, copywriting, creative strategy, paid ads, shopping feeds, local SEO, marketplaces, WhatsApp, funnels, CRO, sales, retention, referrals, measurement, experimentation, growth, and operations.
 
 Works with Claude Code, OpenAI Codex, Cursor, Windsurf, GitHub Copilot, and any agent that supports the [Agent Skills spec](https://agentskills.io).
 
@@ -11,14 +11,14 @@ Built by [Vince Servidad](https://www.vinceservidad.com/) · Website: <https://m
 ### Option 1: CLI Install (all AI agents)
 
 ```bash
-# Install all 129 skills
+# Install all 133 skills
 npx skills add vinceservidad/mkt-skills
 
 # List all available skills
 npx skills add vinceservidad/mkt-skills --list
 
 # Install specific skills
-npx skills add vinceservidad/mkt-skills --skill 00-router 07-offer-design 11-paid-search
+npx skills add vinceservidad/mkt-skills --skill 00-router 07-offer-design 11-shopping-feeds
 ```
 
 ### Option 2: Claude Code Plugin
@@ -26,7 +26,7 @@ npx skills add vinceservidad/mkt-skills --skill 00-router 07-offer-design 11-pai
 Install everything or pick only the sections you need:
 
 ```bash
-# All 129 skills
+# All 133 skills
 /plugin install mkt-skills --marketplace vinceservidad/mkt-skills
 
 # Or install modular packs (start with the router, then add the sections you need)

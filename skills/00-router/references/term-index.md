@@ -179,6 +179,7 @@ Every term in the master index, with the skill that owns the decision. Generated
 | Lifecycle marketing | 15 Retention | `15-lifecycle` |
 | LIFT model | 13 Conversion | `13-cro-audit` |
 | Live chat | 13 Conversion | `13-cro-audit` |
+| Local SEO | 11 Distribution | `11-local-seo` |
 | Localization | 11 Distribution | `11-channel-selection` |
 | Loyalty program | 15 Retention | `15-loyalty` |
 | MAGIC naming | 07 Offer | `07-offer-design` |
@@ -187,6 +188,7 @@ Every term in the master index, with the skill that owns the decision. Generated
 | Marketing council (multi-perspective review) | 20 Operations | `20-marketing-council` |
 | Marketing Mix Modeling | 17 Measurement | `17-attribution` |
 | Marketing plan | 20 Operations | `20-marketing-plan` |
+| Marketplace & retail media | 11 Distribution | `11-marketplace-retail-media` |
 | Marketplaces (Amazon, app stores) | 11 Distribution | `11-channel-selection` |
 | Martech stack | 20 Operations | `20-martech` |
 | MECLABS sequence | 13 Conversion | `13-cro-audit` |
@@ -275,6 +277,7 @@ Every term in the master index, with the skill that owns the decision. Generated
 | Sequential / Bayesian testing | 18 Experimentation | `18-ab-testing` |
 | Setter–closer model | 14 Sales | `14-sales-script` |
 | Share of voice | 05 Brand | `05-brand-foundation` |
+| Shopping & product feeds | 11 Distribution | `11-shopping-feeds` |
 | Short-form video | 09 Creative Strategy | `09-image-video` |
 | Signup flow | 13 Conversion | `13-signup` |
 | Site architecture / internal linking | 11 Distribution | `11-site-architecture` |
@@ -321,6 +324,7 @@ Every term in the master index, with the skill that owns the decision. Generated
 | VSL | 10 Copywriting | `10-vsl-script` |
 | Webinar funnel | 12 Funnel | `12-webinar-challenge` |
 | Weekly growth meeting | 20 Operations | `20-campaign-review` |
+| WhatsApp & conversational messaging | 11 Distribution | `11-whatsapp` |
 | Win-back | 15 Retention | `15-lifecycle` |
 | Word of mouth | 16 Referral and Community | `16-referral-program` |
 | YouTube / video marketing | 11 Distribution | `11-podcast-video` |

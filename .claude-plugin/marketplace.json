@@ -5,13 +5,13 @@
     "url": "https://mktskills.com"
   },
   "metadata": {
-    "description": "129 marketing skills for AI agents \u2014 diagnosis router plus 20 sections from market research to operations.",
-    "version": "1.0.0"
+    "description": "133 marketing skills for AI agents \u2014 diagnosis router plus 20 sections from market research to operations.",
+    "version": "1.1.0"
   },
   "plugins": [
     {
       "name": "mkt-skills",
-      "description": "All 129 MKT Skills (the diagnosis router plus 128 skills across 20 marketing sections): market, customer, positioning, offer, copywriting, paid ads, SEO, funnels, CRO, retention, measurement, growth, and operations.",
+      "description": "All 133 MKT Skills (the diagnosis router plus 132 skills across 20 marketing sections): market, customer, positioning, offer, copywriting, paid ads, shopping feeds, local SEO, marketplaces, WhatsApp, funnels, CRO, retention, measurement, growth, and operations.",
       "source": "./"
     },
     {
@@ -112,6 +112,8 @@
         "./skills/11-events",
         "./skills/11-free-tools",
         "./skills/11-influencer",
+        "./skills/11-local-seo",
+        "./skills/11-marketplace-retail-media",
         "./skills/11-paid-search",
         "./skills/11-paid-social",
         "./skills/11-podcast-video",
@@ -119,9 +121,11 @@
         "./skills/11-programmatic-seo",
         "./skills/11-schema",
         "./skills/11-seo",
+        "./skills/11-shopping-feeds",
         "./skills/11-site-architecture",
         "./skills/11-sms",
         "./skills/11-social",
+        "./skills/11-whatsapp",
         "./skills/12-email-sequences",
         "./skills/12-funnel-design",
         "./skills/12-landing-page",
