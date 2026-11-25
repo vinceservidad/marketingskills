@@ -1,8 +1,8 @@
-# MKT Skills
+# Marketing Skills
 
 133 marketing skills for AI agents: a diagnosis router (`00-router`) plus 132 skills across 20 sections covering market research, customer research, positioning, offers, copywriting, creative strategy, paid ads, shopping feeds, local SEO, marketplaces, WhatsApp, funnels, CRO, sales, retention, referrals, measurement, experimentation, growth, and operations.
 
-Works with Claude Code, OpenAI Codex, Cursor, Windsurf, GitHub Copilot, and any agent that supports the [Agent Skills spec](https://agentskills.io).
+Works with Claude Code, OpenAI Codex, Cursor, Windsurf, GitHub Copilot, Antigravity, and any agent that supports the [Agent Skills spec](https://agentskills.io).
 
 Built by [Vince Servidad](https://www.vinceservidad.com/) · Website: <https://mktskills.com>
 
@@ -12,16 +12,16 @@ Built by [Vince Servidad](https://www.vinceservidad.com/) · Website: <https://m
 
 ```bash
 # Install all 133 skills (Vercel skills CLI)
-npx skills add vinceservidad/mkt-skills
+npx skills add vinceservidad/marketingskills
 
 # Or via Context7 CLI
-npx ctx7 skills install /vinceservidad/mkt-skills
+npx ctx7 skills install /vinceservidad/marketingskills
 
 # List all available skills
-npx skills add vinceservidad/mkt-skills --list
+npx skills add vinceservidad/marketingskills --list
 
 # Install specific skills
-npx skills add vinceservidad/mkt-skills --skill 00-router 07-offer-design 11-shopping-feeds
+npx skills add vinceservidad/marketingskills --skill 00-router 07-offer-design 11-shopping-feeds
 ```
 
 ### Option 2: Claude Code Plugin
@@ -30,18 +30,18 @@ Install everything or pick only the sections you need:
 
 ```bash
 # All 133 skills
-/plugin install mkt-skills --marketplace vinceservidad/mkt-skills
+/plugin install marketingskills --marketplace vinceservidad/marketingskills
 
 # Or install modular packs (start with the router, then add the sections you need)
-/plugin install mkt-core --marketplace vinceservidad/mkt-skills
-/plugin install mkt-q1-audience --marketplace vinceservidad/mkt-skills
-/plugin install mkt-q2-offer --marketplace vinceservidad/mkt-skills
-/plugin install mkt-q3-message --marketplace vinceservidad/mkt-skills
-/plugin install mkt-q4-reach --marketplace vinceservidad/mkt-skills
-/plugin install mkt-q5-decide --marketplace vinceservidad/mkt-skills
-/plugin install mkt-q6-after --marketplace vinceservidad/mkt-skills
-/plugin install mkt-q7-improve --marketplace vinceservidad/mkt-skills
-/plugin install mkt-q8-run --marketplace vinceservidad/mkt-skills
+/plugin install mkt-core --marketplace vinceservidad/marketingskills
+/plugin install mkt-q1-audience --marketplace vinceservidad/marketingskills
+/plugin install mkt-q2-offer --marketplace vinceservidad/marketingskills
+/plugin install mkt-q3-message --marketplace vinceservidad/marketingskills
+/plugin install mkt-q4-reach --marketplace vinceservidad/marketingskills
+/plugin install mkt-q5-decide --marketplace vinceservidad/marketingskills
+/plugin install mkt-q6-after --marketplace vinceservidad/marketingskills
+/plugin install mkt-q7-improve --marketplace vinceservidad/marketingskills
+/plugin install mkt-q8-run --marketplace vinceservidad/marketingskills
 ```
 
 ### Option 3: Cursor Plugin
@@ -49,21 +49,21 @@ Install everything or pick only the sections you need:
 Run inside Cursor:
 
 ```text
-/add-plugin vinceservidad/mkt-skills
+/add-plugin vinceservidad/marketingskills
 ```
 
 ### Option 4: OpenAI Codex Plugin
 
 ```bash
-codex plugin marketplace add vinceservidad/mkt-skills
+codex plugin marketplace add vinceservidad/marketingskills
 ```
 
-Then run `/plugins` inside Codex and select **mkt-skills**.
+Then run `/plugins` inside Codex and select **marketingskills**.
 
 ### Option 5: Antigravity
 
 ```bash
-agy plugin install https://github.com/vinceservidad/mkt-skills
+agy plugin install https://github.com/vinceservidad/marketingskills
 ```
 
 ### Option 6: ChatGPT and Claude.ai (no login required)
@@ -78,8 +78,8 @@ Setup help: <https://mktskills.com/support>
 
 ## About this repository
 
-This repository is generated from the MKT Skills source and updated on each release. Please open issues here; pull requests that edit `skills/` directly will be overwritten on the next sync.
+This repository is generated from the Marketing Skills source and updated on each release. Please open issues here; pull requests that edit `skills/` directly will be overwritten on the next sync.
 
 ## License
 
-MIT. See [LICENSE](https://github.com/vinceservidad/mkt-skills/blob/main/LICENSE).
+MIT. See [LICENSE](https://github.com/vinceservidad/marketingskills/blob/main/LICENSE).

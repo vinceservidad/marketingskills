@@ -1,5 +1,5 @@
 {
-  "name": "mkt-skills",
+  "name": "marketingskills",
   "owner": {
     "name": "Vince Servidad",
     "url": "https://mktskills.com"
@@ -10,8 +10,8 @@
   },
   "plugins": [
     {
-      "name": "mkt-skills",
-      "description": "All 133 MKT Skills (the diagnosis router plus 132 skills across 20 marketing sections): market, customer, positioning, offer, copywriting, paid ads, shopping feeds, local SEO, marketplaces, WhatsApp, funnels, CRO, retention, measurement, growth, and operations.",
+      "name": "marketingskills",
+      "description": "All 133 Marketing Skills (the diagnosis router plus 132 skills across 20 marketing sections): market, customer, positioning, offer, copywriting, paid ads, shopping feeds, local SEO, marketplaces, WhatsApp, funnels, CRO, retention, measurement, growth, and operations.",
       "source": "./"
     },
     {
