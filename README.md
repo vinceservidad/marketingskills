@@ -11,8 +11,11 @@ Built by [Vince Servidad](https://www.vinceservidad.com/) · Website: <https://m
 ### Option 1: CLI Install (all AI agents)
 
 ```bash
-# Install all 133 skills
+# Install all 133 skills (Vercel skills CLI)
 npx skills add vinceservidad/mkt-skills
+
+# Or via Context7 CLI
+npx ctx7 skills install /vinceservidad/mkt-skills
 
 # List all available skills
 npx skills add vinceservidad/mkt-skills --list
@@ -41,7 +44,15 @@ Install everything or pick only the sections you need:
 /plugin install mkt-q8-run --marketplace vinceservidad/mkt-skills
 ```
 
-### Option 3: OpenAI Codex Plugin
+### Option 3: Cursor Plugin
+
+Run inside Cursor:
+
+```text
+/add-plugin vinceservidad/mkt-skills
+```
+
+### Option 4: OpenAI Codex Plugin
 
 ```bash
 codex plugin marketplace add vinceservidad/mkt-skills
@@ -49,7 +60,13 @@ codex plugin marketplace add vinceservidad/mkt-skills
 
 Then run `/plugins` inside Codex and select **mkt-skills**.
 
-### Option 4: ChatGPT and Claude.ai (no login required)
+### Option 5: Antigravity
+
+```bash
+agy plugin install https://github.com/vinceservidad/mkt-skills
+```
+
+### Option 6: ChatGPT and Claude.ai (no login required)
 
 Add the read-only remote MCP connector:
 
