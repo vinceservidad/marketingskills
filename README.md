@@ -1,6 +1,6 @@
 # Marketing Skills
 
-133 marketing skills for AI agents: a diagnosis router (`00-router`) plus 132 skills across 20 sections covering market research, customer research, positioning, offers, copywriting, creative strategy, paid ads, shopping feeds, local SEO, marketplaces, WhatsApp, funnels, CRO, sales, retention, referrals, measurement, experimentation, growth, and operations.
+133 marketing skills for AI agents: a marketing router (`00-router`) plus 132 skills across 20 sections covering market research, customer research, positioning, offers, copywriting, creative strategy, paid ads, shopping feeds, local SEO, marketplaces, WhatsApp, funnels, CRO, sales, retention, referrals, measurement, experimentation, growth, and operations.
 
 Works with Claude Code, OpenAI Codex, Cursor, Windsurf, GitHub Copilot, Antigravity, and any agent that supports the [Agent Skills spec](https://agentskills.io).
 
