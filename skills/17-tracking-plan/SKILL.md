@@ -15,13 +15,13 @@ Save the tracking plan as a Markdown file in `work/17-measurement/` when the req
 
 No context section is required: this skill works from the data in `inputs/`. The current setup, platform counts and the source system's counts in `inputs/` are the evidence; journey and value ladder context say what matters.
 - If present, also read `context/awareness.md` → Journey; `context/offer.md` → Value ladder, Price and model; tool lists, installation notes, platform-reported conversions, store or CRM exports, consent banner details and UTM examples in `inputs/`; any work in `work/17-measurement/` or `work/11-distribution/11-paid-search-*.md` and `11-paid-social-*.md`.
-- **No data:** Without a description of the current setup or any counts, ask for the list of tools, how each is installed, and one month of platform versus source-system counts; plan the events but mark every status *unknown*. Write nothing until it arrives. A stop reply still ends with the **Principle, framework, source** block.
+- **No data:** Without a description of the current setup or any counts, write no file in `work/17-measurement/`; in your reply, ask for the list of tools, how each is installed, and one month of platform versus source-system counts (tell the user how to provide them — paste in chat or drop files in `inputs/`), and outline the planned events and UTM rules with every status marked *unknown*. A stop reply still ends with the **Principle, framework, source** block.
 
 ## Process
 
 For the named methods this skill owns, see [references/methods.md](references/methods.md).
 
-Use [references/tracking-guide.md](references/tracking-guide.md) for event design, UTM conventions, browser and server-side collection, reconciliation, consent and first-party data.
+Use [references/tracking-guide.md](references/tracking-guide.md) for event design, UTM conventions, browser and server-side collection, reconciliation, consent and first-party data, and [references/google-data-manager-and-tag-gateway.md](references/google-data-manager-and-tag-gateway.md) when planning Google Ads first-party signal infrastructure (Data Manager CRM/offline imports, Google Tag Gateway first-party tagging, Enhanced Conversions and Consent Mode v2 rollout checks).
 
 1. **Business questions first.** List the questions measurement must answer (which channels bring subscribers who stay, where the checkout loses people), and map each to the events and fields needed.
 2. **Source of truth.** For each number (orders, revenue, subscribers, leads), name the system of record (store, billing, CRM) and treat platform numbers as that platform's view.

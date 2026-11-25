@@ -22,7 +22,7 @@ No context section is required: this skill works from the data in `inputs/`. Spe
 
 For the named methods this skill owns, see [references/methods.md](references/methods.md).
 
-Use [references/incrementality-guide.md](references/incrementality-guide.md) for holdout and geo-lift designs, choosing regions, sizing, duration, reading results and platform lift studies.
+Use [references/incrementality-guide.md](references/incrementality-guide.md) for holdout and geo-lift designs, choosing regions, sizing, duration, reading results and platform lift studies, and [references/measurement-trifecta-and-meridian.md](references/measurement-trifecta-and-meridian.md) when connecting incrementality tests with attribution and Bayesian Marketing Mix Modeling (such as Google Meridian calibrated with lift priors).
 
 1. **One decision.** State the decision the test informs (double, hold or cut a channel) and the effect size that would change it, from the business's own unit economics.
 2. **Design.** Choose the method: a user holdout (where the platform supports it), a geo-lift test (regions on and off), or a time-based on/off with controls. Fix the groups before launch, matched on past sales; the platform's own lift studies are facts to cite with URL and date or mark *to confirm*.

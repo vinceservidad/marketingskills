@@ -52,6 +52,25 @@ Check before spending:
 5. **Policy triggers:** Subscription-only products have specific Google Shopping subscription rules (must check official Merchant Center subscription/installment policy before listing).
 6. **Country / currency separation:** Each target country requires localized currency, language, shipping and tax settings (never mix UK GBP and US USD into one unsegmented feed).
 
-## 7. Platform facts rule
+## 7. Fixing Serving Limitations, Image Guidelines & Peak/Holiday Readiness
 
-Google Merchant Center Next rules, attribute limits, subscription eligibility, supplemental feed setup steps and PMax brand-exclusion controls change. Verify against current official Google Merchant Center Help docs (cite URL + date) or mark *to confirm*.
+Distilled from official `@GoogleAds` Merchant Center tutorials (*Fix Serving Limitations*, *Image Guidelines*, *Product Data Holiday Ready*). Verify exact current Merchant Center Next policy rules (URL and date) or mark *to confirm*.
+
+### Serving limitations & policy triage
+1. **Separate account-level vs. item-level issues:** Fix account-level misrepresentation, website-not-reachable ("Destination not working"), missing business/contact details, or checkout shipping/returns mismatches FIRST — they suppress the entire catalog.
+2. **Item-level serving limits:** Audit missing `gtin`/`brand`, inaccurate availability/price (enable automatic item updates carefully or fix feed sync latency), restricted category claims, and landing page mobile crawl errors.
+3. **Request review only after root-cause verification:** Re-submitting before the live storefront, schema and feed match risks longer review cooldowns.
+
+### Product image compliance & CTR rules
+- Use high-resolution, uncluttered images showing the exact sold variant (right color/pack size) on a clean neutral or contextual background.
+- **Zero promotional overlays, watermarks, borders, badges or placeholder graphics** on `image_link` (instant disapproval trigger).
+- Supply `additional_image_link` angles (lifestyle, scale, detail) and keep variants mapped to variant-specific URLs/images so buyers see the exact SKU they clicked.
+
+### Peak & holiday readiness checklist (prep 2–4 weeks ahead)
+- **Inventory & availability sync:** Tighten feed fetch frequency so fast-selling hero SKUs never advertise out-of-stock during peak traffic.
+- **Promotions & `sale_price`:** Submit Merchant Center promotions and `sale_price_effective_date` early to allow approval review lead time; verify checkout displays the identical discounted price and shipping cutoff dates.
+- **Hero SKU protection:** Tag peak/giftable hero SKUs via `custom_label` so holiday budgets concentrate on proven in-stock winners rather than thin-margin or slow-moving SKUs.
+
+## 8. Platform facts rule
+
+Google Merchant Center Next rules, attribute limits, subscription eligibility, image resolution minimums, supplemental feed setup steps and PMax brand-exclusion controls change. Verify against current official Google Merchant Center Help docs (cite URL + date) or mark *to confirm*.
