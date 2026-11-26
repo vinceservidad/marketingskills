@@ -3,7 +3,7 @@ name: 18-ab-testing
 description: Design and read A/B or multivariate tests with sample size, duration and decision rules. Use for A/B tests, split tests, sample size, test duration, is an A/B result statistically significant.
 metadata:
   section: "18 Experimentation"
-  covers: "A/B testing; Multivariate testing; Sequential / Bayesian testing"
+  covers: "A/B testing; Beat-the-control testing (Bencivenga); Keyed-ad testing (Hopkins); Multivariate testing; Sequential / Bayesian testing"
 ---
 # A/B testing
 
@@ -21,7 +21,7 @@ No context section is required: this skill works from the data in `inputs/`. Bas
 
 For the named methods this skill owns, see [references/methods.md](references/methods.md).
 
-Use [references/ab-testing-guide.md](references/ab-testing-guide.md) for sample size, duration, decision rules, peeking, sequential and Bayesian options, and multivariate tests.
+Use [references/ab-testing-guide.md](references/ab-testing-guide.md) for sample size, duration, decision rules, peeking, sequential and Bayesian options, and multivariate tests, and [references/testing-classics.md](references/testing-classics.md) for Hopkins's keyed-ad tracking and Bencivenga's beat-the-control testing discipline.
 
 1. **One change, one metric.** Name the change, the audience and page, the primary metric (with its denominator) and guardrail metrics (for example refunds, cancellations).
 2. **Sample size.** From the baseline rate and the minimum detectable effect worth acting on, compute visitors per arm with [scripts/sample_size.py](scripts/sample_size.py) (`python3 <this skill's folder>/scripts/sample_size.py <baseline> <relative_mde>`), then duration from daily traffic, rounded up to whole weeks. If it takes too long, say so and propose a bigger change, a higher-traffic step or another method.
@@ -85,4 +85,4 @@ End with the **Principle, framework, source** block:
 
 ## Principle and source
 
-Test one change against one metric, size the test before you start, decide how you will read it in advance, and run it to the end. A/B testing, Multivariate testing and Sequential / Bayesian testing, The Complete Marketing System, section 18 Experimentation (Servidad, 2026); Trustworthy Online Controlled Experiments (Kohavi, Tang and Xu).
+Test one change against one metric, size the test before you start, decide how you will read it in advance, and run it to the end. A/B testing, Multivariate testing and Sequential / Bayesian testing, The Complete Marketing System, section 18 Experimentation (Servidad, 2026); keyed-ad testing, Scientific Advertising (Claude Hopkins); beat-the-control discipline (Gary Bencivenga); Trustworthy Online Controlled Experiments (Kohavi, Tang and Xu).

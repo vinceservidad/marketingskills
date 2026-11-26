@@ -3,7 +3,7 @@ name: 09-image-video
 description: Direct or generate image and video assets that carry the message and the brand's assets. Use for image or video direction, AI image prompts, shot lists, storyboards, visual concepts.
 metadata:
   section: "09 Creative Strategy"
-  covers: "Image and video generation; Short-form video"
+  covers: "Image and video generation; Short-form video; Vampire Video check (Reeves)"
 ---
 # Image and video
 
@@ -25,7 +25,7 @@ Required (drafted or confirmed, with content):
 
 For the named methods this skill owns, see [references/methods.md](references/methods.md).
 
-Use [references/visual-direction.md](references/visual-direction.md) for visual hierarchy, short-form video structure, prompt anatomy and the truth rules.
+Use [references/visual-direction.md](references/visual-direction.md) for visual hierarchy, short-form video structure, prompt anatomy and the truth rules, and [references/visual-classics.md](references/visual-classics.md) for Reeves's Vampire Video check, Bernbach's visual-verbal complement, and Ogilvy's photo and caption rules.
 
 1. **Fix the asset:** what it is (static ad, carousel, Reel, YouTube short, LinkedIn video, product photo), the channel, the awareness level and the one message it carries (from the promise, a concept in `work/09-creative-strategy/09-ad-creative-*.md` or a brief).
 2. **Visual hierarchy:** state what the eye must see first, second and third, and the reading order of any text. One focal point.
@@ -91,4 +91,4 @@ End with the **Principle, framework, source** block:
 
 ## Principle and source
 
-A visual carries one message in the order the eye reads it, uses the brand's own cues every time so it is remembered, and shows only what is true. Visual hierarchy and short-form video, The Complete Marketing System, section 9 Creative Strategy (Servidad, 2026); distinctive brand assets, How Brands Grow (Byron Sharp); Ogilvy on Advertising (David Ogilvy).
+A visual carries one message in the order the eye reads it, uses the brand's own cues every time so it is remembered, and shows only what is true. Visual hierarchy and short-form video, The Complete Marketing System, section 9 Creative Strategy (Servidad, 2026); Vampire Video check, Reality in Advertising (Rosser Reeves); visual-verbal complement (Bill Bernbach); distinctive brand assets, How Brands Grow (Byron Sharp); Ogilvy on Advertising (David Ogilvy).

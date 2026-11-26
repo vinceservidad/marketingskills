@@ -3,7 +3,7 @@ name: 11-pr
 description: Earn press with newsjacking, data stories and the founder story, pitched to outlets the buyer reads. Use for PR, press coverage, media pitches, getting featured, journalist outreach.
 metadata:
   section: "11 Distribution"
-  covers: "Newsjacking; PR / earned media"
+  covers: "Earned publicity showmanship (Barnum); News-event PR and third-party authority (Bernays); Newsjacking; PR / earned media"
 ---
 # PR
 
@@ -26,7 +26,7 @@ Required (drafted or confirmed, with content):
 
 For the named methods this skill owns, see [references/methods.md](references/methods.md).
 
-Use [references/pr-guide.md](references/pr-guide.md) for story types, outlet fit, the pitch, data stories and newsjacking rules.
+Use [references/pr-guide.md](references/pr-guide.md) for story types, outlet fit, the pitch, data stories and newsjacking rules, and [references/pr-classics.md](references/pr-classics.md) for Bernays's news-event engineering and third-party authority and Barnum's truth-grounded publicity showmanship.
 
 1. **Goal and outcome.** Name what coverage is for (reach the buyer, borrowed trust for the proof stack, links, booked conversations) and what judges it (leads or calls traced to a story, with counts). Mentions and impressions are signals.
 2. **Story inventory.** List every story the business can tell, each with its source: the founder story (from Story), data the business owns, a contrarian view from the Big idea or Enemy, customer results with permission, a dated real event. For each, record what is true, what is still missing and what permission it needs.
@@ -97,4 +97,4 @@ End with the **Principle, framework, source** block:
 
 ## Principle and source
 
-Pitch a true story to the outlets your buyers already trust, with evidence you are allowed to share, and judge PR on the conversations it starts. PR / earned media and Newsjacking, The Complete Marketing System, section 11 Distribution (Servidad, 2026); Newsjacking (David Meerman Scott); Trust Me, I'm Lying (Ryan Holiday) as a warning about manufactured stories.
+Pitch a true story to the outlets your buyers already trust, with evidence you are allowed to share, and judge PR on the conversations it starts. PR / earned media and Newsjacking, The Complete Marketing System, section 11 Distribution (Servidad, 2026); Crystallizing Public Opinion (Edward Bernays); earned publicity demonstrations (P.T. Barnum, within strict proof rules); Newsjacking (David Meerman Scott); Trust Me, I'm Lying (Ryan Holiday) as a warning about manufactured stories.

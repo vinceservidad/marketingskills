@@ -3,7 +3,7 @@ name: 11-email-channel
 description: Run email as a channel with list growth, consent, deliverability and a broadcast calendar. Use for email marketing, newsletter plan, growing the list, inbox placement, how often to email.
 metadata:
   section: "11 Distribution"
-  covers: "Email marketing"
+  covers: "Email marketing; Permission Marketing (Godin)"
 ---
 # Email channel
 
@@ -26,7 +26,7 @@ Required (drafted or confirmed, with content):
 
 For the named methods this skill owns, see [references/methods.md](references/methods.md).
 
-Use [references/email-channel-guide.md](references/email-channel-guide.md) for consent, list hygiene, deliverability, cadence and measurement.
+Use [references/email-channel-guide.md](references/email-channel-guide.md) for consent, list hygiene, deliverability, cadence and measurement, and [references/godin-permission.md](references/godin-permission.md) for Seth Godin's Permission Marketing ladder and three-part email test.
 
 1. **Outcome.** Name what the channel is judged on (orders, repeat orders, qualified replies) and the measure the plan reports (orders or revenue per email delivered, with the attribution rule the tool uses). Opens are a weak signal; privacy features inflate them.
 2. **The list by source and consent.** Count contacts by source with [scripts/tally.py](scripts/tally.py) or the export, never by eye. For each source, record what the person agreed to (the exact sign-up wording if supplied). Contacts with no record of consent to marketing email are held out of broadcasts until the owner gets consent or confirms a lawful basis; never mail them to "warm up" or to see what happens. Consent and legal rules are facts to verify (see the guide) or mark *to confirm*.
@@ -97,4 +97,4 @@ End with the **Principle, framework, source** block:
 
 ## Principle and source
 
-Mail only people who asked to hear from you, often enough to stay useful and never faster than the domain can carry, and judge email on the orders it brings. Email marketing, The Complete Marketing System, section 11 Distribution (Servidad, 2026); permission marketing (Seth Godin).
+Mail only people who asked to hear from you, often enough to stay useful and never faster than the domain can carry, and judge email on the orders it brings. Email marketing, The Complete Marketing System, section 11 Distribution (Servidad, 2026); Permission Marketing (Seth Godin).

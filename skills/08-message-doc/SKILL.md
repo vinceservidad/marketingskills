@@ -3,7 +3,7 @@ name: 08-message-doc
 description: Write the message document every ad, page and email draws from, with big idea, promise, mechanism, reason why, enemy and message house. Use for what to say, messaging framework, Rule of One.
 metadata:
   section: "08 Message"
-  covers: "4Ps of persuasion (taught by AWAI); Big Idea; Enemy / villain; Laddering (benefit ladder); Message house; Reason Why (Hopkins); Rule of One; SUCCESs (Heath)"
+  covers: "4Ps of persuasion (taught by AWAI); Big Idea; Big Idea 5-question test (Ogilvy); Enemy / villain; Intensification and copy mechanics (Schwartz); Laddering (benefit ladder); Message house; Reason Why (Hopkins); Rule of One; SUCCESs (Heath)"
 ---
 # Message document
 
@@ -34,7 +34,7 @@ Decide what you say before writing any ad or page. One message, one idea, one re
    - **Roof:** the core promise.
    - **Three pillars:** supporting messages, each tied to a top objection or job.
    - **Foundation:** the proof each pillar needs. Leave the proof detail to `08-proof-stack`.
-7. **Run the 4Ps of persuasion (taught by AWAI) check:** Promise, Picture, Proof, Push, each present or flagged as a gap. Then the Rule of One and SUCCESs checks: one idea, one reader, one emotion, one action; simple, unexpected, concrete, credible, emotional, story. See [references/message-tests.md](references/message-tests.md).
+7. **Run the 4Ps of persuasion (taught by AWAI) check:** Promise, Picture, Proof, Push, each present or flagged as a gap. Then run the Rule of One, SUCCESs, Ogilvy's Big Idea 5-question filter, and Schwartz's intensification checks using [references/message-tests.md](references/message-tests.md) and [references/message-classics.md](references/message-classics.md).
 8. **Check before saving.** Re-read the draft against the Checks and fix any failure.
 
 ## Output
@@ -91,4 +91,4 @@ Then run [scripts/check_quotes.py](scripts/check_quotes.py) on the file you wrot
 
 ## Principle and source
 
-One message, one idea, one reader, with a reason why: a claim with a reason outperforms the bare claim, and the best message is found in customer research, not invented. Big Idea (David Ogilvy, Ogilvy on Advertising); Reason Why, Scientific Advertising (Claude Hopkins); Rule of One, Great Leads (Michael Masterson & John Forde); SUCCESs, Made to Stick (Chip & Dan Heath); The Complete Marketing System, section 8 Message (Servidad, 2026).
+One message, one idea, one reader, with a reason why: a claim with a reason outperforms the bare claim, and the best message is found in customer research, not invented. Big Idea (David Ogilvy, Ogilvy on Advertising); Breakthrough Advertising (Eugene Schwartz); Reason Why, Scientific Advertising (Claude Hopkins); Rule of One, Great Leads (Michael Masterson & John Forde); SUCCESs, Made to Stick (Chip & Dan Heath); The Complete Marketing System, section 8 Message (Servidad, 2026).

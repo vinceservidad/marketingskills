@@ -3,7 +3,7 @@ name: 09-creative-brief
 description: Write a creative brief with audience, awareness, insight, single message, proof, format and CTA. Use for a creative brief, briefing a designer, editor or agency on an ad or asset.
 metadata:
   section: "09 Creative Strategy"
-  covers: "Creative brief; Message–market–media match (Kennedy)"
+  covers: "Creative brief; Honest admission and visual-verbal tension (Bernbach); Message–market–media match (Kennedy)"
 ---
 # Creative brief
 
@@ -29,7 +29,7 @@ Required (drafted or confirmed, with content):
 
 For the named methods this skill owns, see [references/methods.md](references/methods.md).
 
-Use [references/brief-fields.md](references/brief-fields.md) for what each field must contain and the common failures, and [references/research-to-brief-and-review.md](references/research-to-brief-and-review.md) for the evidence-to-choice ledger, reference reverse-engineering, endorsement rights ledger and production preflight.
+Use [references/brief-fields.md](references/brief-fields.md) for what each field must contain and the common failures, [references/research-to-brief-and-review.md](references/research-to-brief-and-review.md) for the evidence-to-choice ledger, reference reverse-engineering, endorsement rights ledger and production preflight, and [references/creative-classics.md](references/creative-classics.md) for Bernbach's honest admission and visual-verbal tension, Ogilvy's brief focus, and Burnett's Inherent Drama check.
 
 1. **Objective and the job of the work:** what the creative must cause (a booked call, a trial, a download), on which channel, for which traffic temperature. One objective.
 2. **Audience and awareness level:** one segment from the ICP, and one level from the awareness map, with its share as the map gives it. If the campaign spans levels, write one brief per level.
@@ -101,4 +101,4 @@ End with the **Principle, framework, source** block:
 
 ## Principle and source
 
-Give the makers one audience, one insight and one message with its proof, and let them be creative about the execution, not the strategy. Creative brief, The Complete Marketing System, section 9 Creative Strategy (Servidad, 2026); Ogilvy on Advertising (David Ogilvy); Rule of One, Great Leads (Masterson & Forde).
+Give the makers one audience, one insight and one message with its proof, and let them be creative about the execution, not the strategy. Creative brief, The Complete Marketing System, section 9 Creative Strategy (Servidad, 2026); Bill Bernbach (Doyle Dane Bernbach); Leo Burnett; Ogilvy on Advertising (David Ogilvy); Rule of One, Great Leads (Masterson & Forde).

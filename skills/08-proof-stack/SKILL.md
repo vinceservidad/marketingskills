@@ -3,7 +3,7 @@ name: 08-proof-stack
 description: Assemble real proof under every claim and flag claims with none. Use for social proof, reason to believe, which testimonials to use. Not for collecting them (use 16-testimonials-case-studies).
 metadata:
   section: "08 Message"
-  covers: "Proof stack; Reason to Believe; Social proof"
+  covers: "Persuasion Equation (Bencivenga); Preemptive claim (Hopkins); Proof stack; Reason to Believe; Social proof"
 ---
 # Proof stack
 
@@ -34,7 +34,7 @@ The reason to buy and the reason to believe are two different jobs, and most wea
 ## Process
 
 1. **List the claims:** the promise, each pillar, and any number or superlative the business uses.
-2. **Find proof for each claim** in the material, by type, using [references/proof-types.md](references/proof-types.md):
+2. **Find proof for each claim** in the material, by type, using [references/proof-types.md](references/proof-types.md) and the persuasion/preemptive proof rules in [references/proof-classics.md](references/proof-classics.md):
    - results and data;
    - testimonials and reviews;
    - case studies;
@@ -100,4 +100,4 @@ The reply's last lines are always the **Principle, framework, source** block, af
 
 ## Principle and source
 
-The reason to buy and the reason to believe are different jobs: put specific, sourced proof under every claim, and weaken or withdraw any claim you cannot prove. Reason to believe and social proof (Robert Cialdini, Influence); proof, Scientific Advertising (Claude Hopkins); The Complete Marketing System, section 8 Message (Servidad, 2026).
+The reason to buy and the reason to believe are different jobs: put specific, sourced proof under every claim, and weaken or withdraw any claim you cannot prove. Persuasion Equation (Gary Bencivenga); third-party authority (Edward Bernays); Reason to believe and social proof (Robert Cialdini, Influence); preemptive claim and proof, Scientific Advertising (Claude Hopkins); The Complete Marketing System, section 8 Message (Servidad, 2026).

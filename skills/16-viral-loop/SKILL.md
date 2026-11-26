@@ -3,7 +3,7 @@ name: 16-viral-loop
 description: Design sharing mechanics, invite loops, forced-share checks and K-factor honestly. Use for going viral, K-factor, invite loops, forced-share/invite gates, network effects, making a product shareable.
 metadata:
   section: "16 Referral and Community"
-  covers: "K-factor / viral loop; Network effects; STEPPS (Berger)"
+  covers: "K-factor / viral loop; Network effects; Sneezers and IdeaVirus (Godin); STEPPS (Berger)"
 ---
 # Viral loop
 
@@ -21,7 +21,7 @@ No context section is required: this skill works from the data in `inputs/`. Usa
 
 For the named methods this skill owns, see [references/methods.md](references/methods.md).
 
-Use [references/viral-loop-guide.md](references/viral-loop-guide.md) for K-factor and cycle time, STEPPS, network effects, loop mechanics and measurement.
+Use [references/viral-loop-guide.md](references/viral-loop-guide.md) for K-factor and cycle time, STEPPS, network effects, loop mechanics and measurement, and [references/word-of-mouth-classics.md](references/word-of-mouth-classics.md) for Godin's Sneezers and IdeaVirus mechanics and Barnum's truth-grounded talkability triggers.
 
 1. **Is there a natural share?** From `inputs/` and Voice of customer, find where customers already share or give (gifts, posts, recommendations), counted with [scripts/tally.py](scripts/tally.py). Use STEPPS (Berger) to judge why people would share: social currency, triggers, emotion, public, practical value, stories.
 2. **Network effects?** Say whether the product gets better for each user as more join (most don't). If not, the loop is word of mouth and sharing, not a network effect.
@@ -83,4 +83,4 @@ End with the **Principle, framework, source** block:
 
 ## Principle and source
 
-Build sharing into the value people already get, measure the loop from real counts, and treat a K-factor above 1 as rare. K-factor / viral loop, Network effects and STEPPS (Jonah Berger, Contagious), The Complete Marketing System, section 16 Referral and Community (Servidad, 2026); Andrew Chen on viral loops and The Cold Start Problem.
+Build sharing into the value people already get, measure the loop from real counts, and treat a K-factor above 1 as rare. K-factor / viral loop, Network effects and STEPPS (Jonah Berger, Contagious), The Complete Marketing System, section 16 Referral and Community (Servidad, 2026); Unleashing the IdeaVirus and Purple Cow (Seth Godin); truth-grounded demonstrations (P.T. Barnum); Andrew Chen on viral loops and The Cold Start Problem.

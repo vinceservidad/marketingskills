@@ -3,7 +3,7 @@ name: 04-pmf-check
 description: Test product-market fit by segment with Sean Ellis survey, cohort retention and word of mouth. Use for PMF, are customers sticking around, product vs marketing problem, ready to scale.
 metadata:
   section: "04 Product"
-  covers: "4Ps (McCarthy); 7Ps (services mix); Kano model; Lean Startup / MVP; Product–market fit; Sean Ellis PMF test"
+  covers: "4Ps (McCarthy); 7Ps (services mix); Five Product Levels and 4Cs (Kotler); Kano model; Lean Startup / MVP; Product–market fit; Sean Ellis PMF test"
 ---
 # PMF check
 
@@ -24,7 +24,7 @@ Fit is measured by retention and word of mouth, not by sales. Sales can be bough
 
 ## Process
 
-Use [references/pmf-signals.md](references/pmf-signals.md) for the survey questions, how to read each signal, its limits and the verdict ladder.
+Use [references/pmf-signals.md](references/pmf-signals.md) for the survey questions, how to read each signal, its limits and the verdict ladder, and [references/kotler-product-levels.md](references/kotler-product-levels.md) for Kotler's Five Product Levels and 4Ps-to-4Cs translation.
 
 1. **Name what is being tested.** The product and its promised result (from `offer.md` if present, otherwise as the user states it, marked), the unit (customer, account, subscriber) and the segments to split by. Fit is for a product *and* a segment, never for the business in general.
 2. **Score the survey,** if there is one, with [scripts/pmf_score.py](scripts/pmf_score.py) (`python3 <this skill's folder>/scripts/pmf_score.py <survey.csv> <answer column> <segment column>`), never by eye.
@@ -120,4 +120,4 @@ End with the **Principle, framework, source** block:
 
 ## Principle and source
 
-Fit is measured by retention and word of mouth, not by sales: find the segment that would be very disappointed to lose the product, stays and brings others, make sure the product delivers its result there, and only then let marketing amplify it. Sean Ellis PMF survey (Sean Ellis; Hacking Growth, Ellis & Brown); Product–Market Fit (Marc Andreessen, "The only thing that matters"; Andy Rachleff); The Complete Marketing System, section 4 Product (Servidad, 2026).
+Fit is measured by retention and word of mouth, not by sales: find the segment that would be very disappointed to lose the product, stays and brings others, make sure the product delivers its result there, and only then let marketing amplify it. Sean Ellis PMF survey (Sean Ellis; Hacking Growth, Ellis & Brown); Product–Market Fit (Marc Andreessen, "The only thing that matters"; Andy Rachleff); Five Product Levels and 4Ps-to-4Cs (Philip Kotler, Marketing Management); The Complete Marketing System, section 4 Product (Servidad, 2026).

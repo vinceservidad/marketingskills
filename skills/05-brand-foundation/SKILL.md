@@ -3,7 +3,7 @@ name: 05-brand-foundation
 description: Define the brand promise, story, values, personality and archetype on one page from customer evidence. Use for brand strategy, brand pyramid, brand story, who we are. Not for voice (05-brand-voice).
 metadata:
   section: "05 Brand"
-  covers: "Binet & Field (60/40); Brand archetypes; Brand equity model (Aaker); Brand key / brand pyramid; CBBE pyramid (Keller); Founder-led / personal brand; Golden Circle; Share of voice; Sponsorships; StoryBrand; Thought leadership"
+  covers: "Binet & Field (60/40); Brand archetypes; Brand equity model (Aaker); Brand key / brand pyramid; CBBE pyramid (Keller); Founder-led / personal brand; Golden Circle; Purple Cow and Smallest Viable Market (Godin); Share of voice; Sponsorships; StoryBrand; Thought leadership"
 ---
 # Brand foundation
 
@@ -26,7 +26,7 @@ A brand is what buyers remember when the ad is over, and whether they think of y
 
 ## Process
 
-Work through the brand key in [references/brand-key.md](references/brand-key.md). Fill each slot from evidence; where evidence is missing, write a gap, not a guess.
+Work through the brand key in [references/brand-key.md](references/brand-key.md) and the brand checks in [references/brand-classics.md](references/brand-classics.md) (Godin's Purple Cow and Smallest Viable Market, Ogilvy on Brand Image, Jobs's values-based rally, and Ries & Trout's Sacrifice and Line Extension filters). Fill each slot from evidence; where evidence is missing, write a gap, not a guess.
 
 1. **Insight.** The buyer truth the brand is built on: a tension in the buyer's own situation, taken from the ICP, jobs and voice of customer, with source IDs.
 2. **Purpose (why).** Why the business exists beyond selling, from the founder's own account if one is supplied (Golden Circle: why, how, what). With no founder material, leave *Why* as a question for the owner. Never compose an origin.
@@ -110,4 +110,4 @@ End with the **Principle, framework, source** block:
 
 ## Principle and source
 
-A brand is what buyers remember and the situations they remember you in; define it on one page, from evidence, so every asset, word and name repeats the same true promise. Brand key (one-page brand definition); brand archetypes (Margaret Mark & Carol Pearson, The Hero and the Outlaw); Golden Circle (Simon Sinek, Start with Why); StoryBrand (Donald Miller, Building a StoryBrand); mental availability and category entry points (Byron Sharp, How Brands Grow; Jenni Romaniuk); The Complete Marketing System, section 5 Brand (Servidad, 2026).
+A brand is what buyers remember and the situations they remember you in; define it on one page, from evidence, so every asset, word and name repeats the same true promise. Brand key (one-page brand definition); brand archetypes (Margaret Mark & Carol Pearson, The Hero and the Outlaw); Golden Circle (Simon Sinek, Start with Why); StoryBrand (Donald Miller, Building a StoryBrand); mental availability and category entry points (Byron Sharp, How Brands Grow; Jenni Romaniuk); Purple Cow (Seth Godin); Ogilvy on Advertising (David Ogilvy); The Complete Marketing System, section 5 Brand (Servidad, 2026).

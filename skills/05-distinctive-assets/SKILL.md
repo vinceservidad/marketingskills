@@ -3,7 +3,7 @@ name: 05-distinctive-assets
 description: Audit and build the colours, shapes, sounds and characters buyers recognise as yours, from recognition evidence. Use for distinctive brand assets, brand recognition, mental availability.
 metadata:
   section: "05 Brand"
-  covers: "Distinctive assets; How Brands Grow (Sharp); Mental / physical availability"
+  covers: "Distinctive assets; How Brands Grow (Sharp); Inherent Drama (Burnett); Mental / physical availability"
 ---
 # Distinctive assets
 
@@ -21,7 +21,7 @@ Distinctive beats different: buyers must recognise the brand before they can be 
 
 ## Process
 
-Use the method in [references/asset-audit.md](references/asset-audit.md).
+Use the method in [references/asset-audit.md](references/asset-audit.md) alongside Leo Burnett's Inherent Drama and brand-character rules in [references/burnett-inherent-drama.md](references/burnett-inherent-drama.md).
 
 1. **Inventory.** List every asset in use: what it is, where it appears, since when, and how consistently. Note inconsistencies (two colours, three taglines) from the material.
 2. **Score fame and uniqueness** from recognition data only. Run [scripts/asset_grid.py](scripts/asset_grid.py) on the survey file (`python3 <this skill's folder>/scripts/asset_grid.py inputs/<survey>.csv`) and copy its numbers; never compute percentages by eye.
@@ -98,4 +98,4 @@ End with the **Principle, framework, source** block:
 
 ## Principle and source
 
-Distinctive beats different: pick the few cues buyers already link to you and to no one else, use them everywhere for years, and measure before you change them. Distinctive Asset Grid (Jenni Romaniuk, Building Distinctive Brand Assets); mental availability (Byron Sharp, How Brands Grow, Ehrenberg-Bass Institute); The Complete Marketing System, section 5 Brand (Servidad, 2026).
+Distinctive beats different: pick the few cues buyers already link to you and to no one else, use them everywhere for years, and measure before you change them. Distinctive Asset Grid (Jenni Romaniuk, Building Distinctive Brand Assets); mental availability (Byron Sharp, How Brands Grow, Ehrenberg-Bass Institute); Inherent Drama and brand characters (Leo Burnett); The Complete Marketing System, section 5 Brand (Servidad, 2026).

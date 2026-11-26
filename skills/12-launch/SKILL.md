@@ -3,7 +3,7 @@ name: 12-launch
 description: Plan a launch, product launches included, with the Product Launch Formula, from pre-launch to close and review. Use for course or beta launches. Not for one live event (use 12-webinar-challenge).
 metadata:
   section: "12 Funnel"
-  covers: "Launch playbook; Product Launch Formula"
+  covers: "Keynote launch playbook (Jobs); Launch playbook; Product Launch Formula"
 ---
 # Launch
 
@@ -27,7 +27,7 @@ Required (drafted or confirmed, with content):
 1. **Confirm the true urgency** from `offer.md` → Urgency and scarcity: a real close date, cohort start, capacity or price change. If none is true, stop and ask the owner to decide one they will honour; never invent it.
    At that stop, also ask for the missing commercial terms of the specific offer being launched. For a gift or other variant, do not inherit the regular product's price, duration, renewal, start-date or delivery terms. Bundle the unresolved terms with the date/time, timezone and delivery-region questions, and ask for the owner's confirmed terms or the relevant fulfilment schedule before dating the plan. Ask about bonuses only when one is actually proposed; a bonus is not required.
    Draft status alone is not a reason to stop: urgency and terms written in context, drafted or confirmed, are enough to build the plan. At this stop, write no file in `work/12-funnel/`, not even a draft in relative days (O, K, Day 1) or with undated placeholders. Reply only with the questions and the closing block.
-2. **Lay out the phases,** using [references/plf.md](references/plf.md):
+2. **Lay out the phases,** using [references/plf.md](references/plf.md) alongside Steve Jobs's keynote launch narrative and live-proof discipline in [references/jobs-keynote-launch.md](references/jobs-keynote-launch.md):
    - **Pre-pre-launch:** seed interest and listen.
    - **Pre-launch:** three pieces of useful content, opportunity → transformation → ownership.
    - **Open cart:** the offer, proof, FAQ, and objection emails.
@@ -91,4 +91,4 @@ End with the **Principle, framework, source** block:
 
 ## Principle and source
 
-Concentrate attention and decision into a window with useful pre-launch content and true urgency: a real close date or limit is the engine, and a fake one destroys the next launch. Product Launch Formula (Jeff Walker, Launch); The Complete Marketing System, section 12 Funnel (Servidad, 2026).
+Concentrate attention and decision into a window with useful pre-launch content and true urgency: a real close date or limit is the engine, and a fake one destroys the next launch. Product Launch Formula (Jeff Walker, Launch); Apple keynote launch narrative and demo-first proof (Steve Jobs); The Complete Marketing System, section 12 Funnel (Servidad, 2026).

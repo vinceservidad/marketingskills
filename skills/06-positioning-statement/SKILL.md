@@ -3,7 +3,7 @@ name: 06-positioning-statement
 description: Position the product against the real alternatives with unique attributes, value, best-fit customers and category. Use for positioning, positioning statement, how we're different, April Dunford.
 metadata:
   section: "06 Positioning"
-  covers: "Competitive alternatives; Obviously Awesome (Dunford); Only-ness statement; Perceptual map; Positioning (Ries & Trout); Positioning statement (Moore); USP; Value proposition (canvas)"
+  covers: "22 Immutable Laws of Marketing (Ries & Trout); Competitive alternatives; Obviously Awesome (Dunford); Only-ness statement; Perceptual map; Positioning (Ries & Trout); Positioning statement (Moore); USP; Value proposition (canvas)"
 ---
 # Positioning statement
 
@@ -33,7 +33,7 @@ Positioning is not what you do to the product; it is what you do to the buyer's 
 
 ## Process
 
-Follow Dunford's order. Each step uses the one before it. Detail and traps: [references/obviously-awesome.md](references/obviously-awesome.md).
+Follow Dunford's order. Each step uses the one before it. Detail and traps: [references/obviously-awesome.md](references/obviously-awesome.md). Test the final frame and USP against the Ries & Trout laws and Reeves's 3-part USP check in [references/positioning-classics.md](references/positioning-classics.md).
 
 1. **Competitive alternatives.** What would the best-fit customers do if the business did not exist? Take the list from the context, including DIY, an in-house hire and doing nothing wherever evidence shows them. Rank them by how often buyers actually choose them (lost deals, switch stories, counts), not by how much they worry you, and sort the table rows in that order, highest count first. Count with `scripts/tally.py` when you count from files.
 2. **Unique attributes.** List what the business has that the alternatives lack: capabilities, delivery, expertise, terms. Use only what is confirmed to exist across the product today: any `offer.md` item marked *proposed*, *planned*, *unknown*, or only seen once / *confirm it is standard* is NOT a current attribute and must appear only under Future differentiators — never as a current attribute, a current "Where we beat it" edge in the Alternatives table, or a claim in the Positioning statement. For each attribute, check the alternatives' dated claims:
@@ -148,4 +148,4 @@ End with the **Principle, framework, source** block:
 
 ## Principle and source
 
-A position is a place in the buyer's mind relative to the alternatives they already know, built from what you have that they lack, the value it creates for the customers who care most, and the category frame that makes that value obvious; who you are not for is part of it. Obviously Awesome (April Dunford); Crossing the Chasm (Geoffrey Moore); Positioning: The Battle for Your Mind (Al Ries and Jack Trout); The Complete Marketing System, section 6 Positioning (Servidad, 2026).
+A position is a place in the buyer's mind relative to the alternatives they already know, built from what you have that they lack, the value it creates for the customers who care most, and the category frame that makes that value obvious; who you are not for is part of it. Obviously Awesome (April Dunford); Crossing the Chasm (Geoffrey Moore); Positioning: The Battle for Your Mind and The 22 Immutable Laws of Marketing (Al Ries and Jack Trout); Reality in Advertising (Rosser Reeves); The Complete Marketing System, section 6 Positioning (Servidad, 2026).
