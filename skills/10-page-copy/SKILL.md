@@ -29,7 +29,7 @@ Required (drafted or confirmed, with content):
    Write nothing in the copy that the context doesn't support: no illustrative guidance, no generalisations such as *many people* or *most customers*, and no delivery terms, timings or conditions beyond what `offer.md` says. If the copy needs it, put it under Open questions instead.
    Present each source as what it is: two lines from one review are one customer, never *one customer… another said…*.
 5. **Edit:** cut adjectives that don't add meaning, make every line specific, and keep one call to action.
-6. **Run the Anti-AI check** in [references/anti-ai-check.md](references/anti-ai-check.md): fix every rule (no "It's not X, it's Y", no buzzwords, no colon reveals, no negative listing, no synonym cycling, at most 2 em dashes on long pages, no mid-sentence bold, and pass the portability test).
+6. **Run the Anti-AI second pass** in [references/anti-ai-check.md](references/anti-ai-check.md): name the reader and cut lines that don't serve them, fix the 6 whole-piece rules (max 4 items per sentence list, one point one proof, match terms to the reader, varied paragraph shape), fix all 13 sentence issues (0 em dashes, no buzzwords, no "It's not X, it's Y", no colon reveals, no mid-sentence bold), and reread once as the reader.
 7. **Check before saving.** Re-read the draft against the Checks and fix any failure.
 
 ## Output
@@ -69,7 +69,7 @@ End with the **Principle, framework, source** block:
 - [ ] The structure named in the header is visible in the copy.
 - [ ] Every claim, number, testimonial, guarantee and price is in the claims table with a source from context or inputs. Nothing is invented.
 - [ ] Buyer language from Voice of customer is used where it exists. Adjectives are replaced by specifics.
-- [ ] All 15 Anti-AI rules in `references/anti-ai-check.md` are checked and fixed.
+- [ ] The Anti-AI second pass in `references/anti-ai-check.md` (reader check, 6 whole-piece rules, 13 sentence fixes with 0 em dashes, and final reread) is completed.
 - [ ] Quotation marks hold only exact source words, and `check_quotes.py` reports clean.
 - [ ] No file in `context/` changed.
 

@@ -39,7 +39,7 @@ Required (drafted or confirmed, with content):
    Present each source as what it is: two lines from one review are one customer, never *one customer… another said…*.
 5. **Write the P.S.:** restate the promise, the guarantee and the call to action.
 6. **Fill the claims table** for every claim in the page.
-7. **Run the Anti-AI check** in [references/anti-ai-check.md](references/anti-ai-check.md): fix every rule (at most 2 em dashes across the page, no mid-sentence bold, no buzzwords, no "It's not X, it's Y", no colon reveals, no negative listing, no recap endings, vary bullets and sentence lengths, and pass the portability test).
+7. **Run the Anti-AI second pass** in [references/anti-ai-check.md](references/anti-ai-check.md): name the reader, fix the 6 whole-piece rules (max 4 items per sentence list, one point one proof, varied paragraph shape, say each thing once) and all 13 sentence issues (0 em dashes, no mid-sentence bold, no buzzwords, no "It's not X, it's Y", no colon reveals, no recap endings), and reread once as the reader.
 8. **Check before saving.** Re-read the draft against the Checks and fix any failure.
 
 ## Output
@@ -79,7 +79,7 @@ End with the **Principle, framework, source** block:
 - [ ] Price, guarantee, bonuses, urgency and offer terms match `offer.md` exactly. No invented scarcity, deadlines or bonus values.
 - [ ] Every testimonial and result comes from the proof stack or inputs, word for word, and is listed in the claims table.
 - [ ] The top objections from the objection map are answered on the page.
-- [ ] All 15 Anti-AI rules in `references/anti-ai-check.md` are checked and fixed.
+- [ ] The Anti-AI second pass in `references/anti-ai-check.md` (reader check, 6 whole-piece rules, 13 sentence fixes with 0 em dashes, and final reread) is completed.
 - [ ] Quotation marks hold only exact source words, and `check_quotes.py` reports clean.
 - [ ] No file in `context/` changed.
 
